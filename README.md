@@ -3,4 +3,5 @@ Created an interactive Sales Report using Power BI, incorporating cards, slicers
 Enabled dynamic filtering and geographic insights to support data-driven decision-making.
  
 **Screenshot:**
-![image](https://github.com/user-attachments/assets/a128f2cf-e900-4153-b290-56843a5a223a)
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/98adf959-c20f-4c0d-811a-99265c570c86" />
+
